@@ -1,2 +1,1 @@
-reame 
-dereje
+updated readme
