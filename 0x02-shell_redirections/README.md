@@ -13,3 +13,4 @@ Write a script that prints “Hello, World”, followed by a new line to the sta
 [12-newest_files](12-newest_files)- Create a script that displays the 10 newest files in the current directory. Requirements: One file per line Sorted from the newest to the oldest</br> </br>
 [13-unique ](13-unique)- Create a scripts that takes a list of words as input and prints only words that appear exactly once. Input format: One line, one word Output format: One line, one word Words should be sorted</br> </br>
 [14-findthatword](14-findthatword)- 14-findthatword - Display lines containing the pattern “root” from the file /etc/passwd (grep it)</br> </br>
+[15-countthatword](15-countthatword)- 15-countthatword - Display the number of lines that contain the pattern “bin” in the file /etc/passwd</br> </br>
