@@ -16,3 +16,4 @@ Write a script that prints “Hello, World”, followed by a new line to the sta
 [15-countthatword](15-countthatword)- 15-countthatword - Display the number of lines that contain the pattern “bin” in the file /etc/passwd</br> </br>
 [16-whatsnext](16-whatsnext)- Display lines containing the pattern “root” and 3 lines after them in the file</br> </br>
 [17-hidethisword](17-hidethisword)- Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.</br> </br>
+[18-letteronly](18-letteronly) - Display all lines of the file /etc/ssh/sshd_config starting with a letter. include capital letters as well .</br> </br>
