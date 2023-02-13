@@ -5,3 +5,4 @@ Write a script that prints “Hello, World”, followed by a new line to the sta
 [4-lastlines](4-lastlines) - 4-lastlines - Display the last 10 lines of /etc/passwd</br> </br>
 [5-firstlines](5-firstlines) - 5-firstlines - Display the first 10 lines of /etc/passwd</br> </br>
 [6-third_line](6-third_line) - 6-third_line - Write a script that displays the third line of the file iacta. The file iacta will be in the working directory. You’re not allowed to use sed</br> </br>
+[7-file](7-file) - Write a shell script that creates a file named exactly echo "Best School" > \\\*\\\\""Best School"\"\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)containing the text Best School ending by a new line.</br> </br>
