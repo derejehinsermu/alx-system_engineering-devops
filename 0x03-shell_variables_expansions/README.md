@@ -13,3 +13,4 @@
 [12-combinations](12-combinations)-Create a script that prints all possible combinations of two letters, except oo.<br/>Letters are lower cases, from a to z<br/>One combination per line<br/> The output should be alpha ordered, starting with aa<br/>Do not print oo<br/> Your script file should contain maximum 64 characters<br/><br>
 [13-print_float](13-print_float) -Write a script that prints a number with two decimal places, followed by a new line.The number will be stored in the environment variable NUM.s<br/><br>
 [100-decimal_to_hexadecimal\(100-decimal_to_hexadecimal)-Write a script that converts a number from base 10 to base 16.<br/>The number in base 10 is stored in the environment variable DECIMAL<br/>The script should display the number in base 16, followed by a new lines<br/><br>
+Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
