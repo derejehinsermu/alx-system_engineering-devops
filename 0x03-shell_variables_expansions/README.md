@@ -14,3 +14,4 @@
 [13-print_float](13-print_float) -Write a script that prints a number with two decimal places, followed by a new line.The number will be stored in the environment variable NUM.s<br/><br>
 [100-decimal_to_hexadecimal\(100-decimal_to_hexadecimal)-Write a script that converts a number from base 10 to base 16.<br/>The number in base 10 is stored in the environment variable DECIMAL<br/>The script should display the number in base 16, followed by a new lines<br/><br>
 [102-odd](102-odd)-Write a script that prints every other line from the input, starting with the first line.<br/><br>
+[103-water_and_sti](103-water_and_sti)-Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.<br/>WATER is in base water<br/>STIR is in base stir.<br/>The result should be in base bestchol.<br/><br>
